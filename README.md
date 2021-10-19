@@ -20,29 +20,27 @@ Install these prerequisites to follow along with the tutorial. See free video tu
 `git clone https://github.com/rahuyada46/BITS_BlockChainProject-main`
 
 ## Step 2. Move to the Project Directly on local computer 
-```Open Command prompt and then type
+Open Command prompt and then type
 $ cd BITS_BlockChainProject-main
 
-```
+
 ## Step 2. Compile & Migrate smart contracts
-``` $ truffle compile 
+$ truffle compile 
 This should result in Successful compilation (there may be certain warnings which can be ignored)
 then $ truffle migrate
-```
+
 ## Step 3. Start Ganache
 Open another command prompt move again to same project directory and type
 ganache-cli
 this will start the ganache TestRPC on port 8454 for more details see https://docs.nethereum.com/en/latest/ethereum-and-clients/ganache-cli/
 
 
-```
-```
 ## Step 4. test the contracts 
-```
+
  $ truffle test 
 
  This should pass all 5 tests 
-```
+
 ## Step 5. Configure Metamask
 See free video tutorial for full explanation of these steps:
 - Unlock Metamask
@@ -50,7 +48,7 @@ See free video tutorial for full explanation of these steps:
 - Import an account provided by ganache.
 
 ## Step 6. Run the Front End Application
-`$ npm run dev`
+$ npm run dev`
 Visit this URL in your browser: http://localhost:3000
 
 

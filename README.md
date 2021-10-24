@@ -1,12 +1,10 @@
 
-# Election - DAPP Tutorial
-Build your first decentralized application, or Dapp, on the Ethereum Network with this tutorial!
+# Company Election - Ethereum based DAPP
+Build decentralized application, or Dapp, on the Ethereum Network with this tutorial!
 
-Full Free Video Tutorial:**
-https://youtu.be/3681ZYbDSSk
+Video Tutorial:**
+Here we can provide our Video link
 
-## 2019 Updated Code
-https://github.com/dappuniversity/election/tree/2019_update
 
 Follow the steps below to download, install, and run this project.
 
@@ -19,20 +17,29 @@ Install these prerequisites to follow along with the tutorial. See free video tu
 
 
 ## Step 1. Clone the project
-`git clone https://github.com/dappuniversity/election`
+`git clone https://github.com/rahuyada46/BITS_BlockChainProject-main`
 
-## Step 2. Install dependencies
-```
-$ cd election
-$ npm install
-```
+## Step 2. Move to the Project Directly on local computer 
+Open Command prompt and then type
+`$ cd BITS_BlockChainProject-main
+
+
+## Step 2. Compile & Migrate smart contracts
+`$ truffle compile 
+This should result in Successful compilation (there may be certain warnings which can be ignored)
+then `$ truffle migrate
+
 ## Step 3. Start Ganache
-Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance. See free video tutorial for full explanation.
+Open another command prompt move again to same project directory and type
+`ganache-cli
+this will start the ganache TestRPC on port 8454 for more details see https://docs.nethereum.com/en/latest/ethereum-and-clients/ganache-cli/
 
 
-## Step 4. Compile & Deploy Election Smart Contract
-`$ truffle migrate --reset`
-You must migrate the election smart contract each time your restart ganache.
+## Step 4. test the contracts 
+
+ `$ truffle test 
+
+ This should pass all 5 tests 
 
 ## Step 5. Configure Metamask
 See free video tutorial for full explanation of these steps:
@@ -44,5 +51,5 @@ See free video tutorial for full explanation of these steps:
 `$ npm run dev`
 Visit this URL in your browser: http://localhost:3000
 
-If you get stuck, please reference the free video tutorial.
+
 

@@ -1,5 +1,5 @@
 
-# Company Election - Ethereum based DAPP
+# Housing Society E Voting - Ethereum based DAPP
 Build decentralized application, or Dapp, on the Ethereum Network with this tutorial!
 
 Video Tutorial:**

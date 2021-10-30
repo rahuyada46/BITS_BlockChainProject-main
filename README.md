@@ -9,6 +9,7 @@ Install these prerequisites to follow along with the tutorial.
 - Truffle: https://github.com/trufflesuite/truffle
 - Ganache: http://truffleframework.com/ganache/
 - Metamask: https://metamask.io/
+- lite-server: https://www.npmjs.com/package/lite-server
 
 
 ## Step 1. Clone the project

@@ -12,7 +12,7 @@ Install these prerequisites to follow along with the tutorial.
 
 
 ## Step 1. Clone the project
-`git clone https://github.com/rahuyada46/BITS_BlockChainProject-main`
+`git clone https://github.com/rahuyada46/BITS_BlockChainProject-main` note: Repository is private and for Assignment purpose the code is provided as part of Zip File
 
 ## Step 2. Move to the Project Directly on local computer 
 Open Command prompt and then type

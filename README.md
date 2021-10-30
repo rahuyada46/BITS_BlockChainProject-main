@@ -12,7 +12,7 @@ Install these prerequisites to follow along with the tutorial.
 - lite-server: https://www.npmjs.com/package/lite-server
 
 ## Step 1. Clone the project
-`git clone https://github.com/rahuyada46/BITS_BlockChainProject-main` note: Repository is private and for Assignment purpose the code is provided as part of Zip File
+`git clone https://github.com/rahuyada46/BITS_BlockChainProject-main` note: Repository is private but for Assignment purpose it is made public
 
 ## Step 2. Move to the Project Directly on local computer 
 Open Command prompt and then type
